@@ -1,7 +1,5 @@
 # JDBC_TASK_1
 
-# JDBC_TASK_1
-
 # JDBC Oracle 10g Connection Test
 This is a basic Java project created to test database connectivity between a Java application and an Oracle 10g database using JDBC.
 The program loads the Oracle JDBC driver, establishes a connection, and prints "Connection Successful!" when everything works correctly.
